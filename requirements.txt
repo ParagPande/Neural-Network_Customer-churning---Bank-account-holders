@@ -1,0 +1,4 @@
+#install packages keras, tensorflow and theano
+
+#use a laptop prefarably with the GPU 
+
